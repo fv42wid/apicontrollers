@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2017\Projects\ApiControllers\ApiControllers\bin\Debug\netcoreapp1.1\ApiControllers.deps.json
+C:\Users\Administrator\documents\visual studio 2017\Projects\ApiControllers\ApiControllers\bin\Debug\netcoreapp1.1\ApiControllers.runtimeconfig.json
+C:\Users\Administrator\documents\visual studio 2017\Projects\ApiControllers\ApiControllers\bin\Debug\netcoreapp1.1\ApiControllers.runtimeconfig.dev.json
+C:\Users\Administrator\documents\visual studio 2017\Projects\ApiControllers\ApiControllers\bin\Debug\netcoreapp1.1\ApiControllers.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\ApiControllers\ApiControllers\bin\Debug\netcoreapp1.1\ApiControllers.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\ApiControllers\ApiControllers\obj\Debug\netcoreapp1.1\ApiControllers.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2017\Projects\ApiControllers\ApiControllers\obj\Debug\netcoreapp1.1\ApiControllers.AssemblyInfo.cs
+C:\Users\Administrator\documents\visual studio 2017\Projects\ApiControllers\ApiControllers\obj\Debug\netcoreapp1.1\ApiControllers.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\ApiControllers\ApiControllers\obj\Debug\netcoreapp1.1\ApiControllers.pdb
